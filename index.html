@@ -709,7 +709,7 @@
         </div>
       </div>
 
-      <form action="#" method="post" role="form" class="php-email-form mt-4">
+      <form id="contact_form" class="php-email-form mt-4">
         <div class="row">
           <div class="col-md-6 form-group">
             <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
@@ -751,10 +751,14 @@
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
   <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
   <!-- <script src="assets/vendor/php-email-form/validate.js"></script> -->
-
+ <!-- EmailJS SDK -->
+    <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+    <script>
+      emailjs.init('hhS2K2X2G7XUMtcIZ'); // Replace with your EmailJS user ID
+    </script>
+    <script src="assets/js/mail_send.js"></script>
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
-
 </body>
 
 </html>
