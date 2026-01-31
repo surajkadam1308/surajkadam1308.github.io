@@ -8,20 +8,16 @@ I am a passionate Web developer with a keen interest in Web design. My goal is t
 
 ## Projects
 
-### Project 1: Best Offer Tracker
+### Project 1: Pro Schoole
 
-- Description: We aim to create software that assists consumers in discovering the best available offers on a variety of products within a specific geographic area.
-By implementing this project, we aim to meet the needs of our customers by providing them with a convenient way to identify the top-ranked offers in the market.
-This software will facilitate direct communication between customers and shopkeepers,
-enabling customers to easily connect with the respective sellers and their products.
+- Description:Pro School is a comprehensive, end-to-end School Management ERP designed to streamline academic and administrative operations. The system manages the entire student lifecycle—starting from the initial Admission process to the final TC (Transfer Certificate) generation. Built with a focus on data integrity and user experience, it serves as a centralized hub for managing student records, staff details, fee collections, and academic performance with a modern, high-performance interface.
 - Technologies: HTML, CSS, BOOSTRAP, JAVASCRIPT, PHP, SQL.
-- [Link to the project or demo]
+- [https://proschool.predragsystem.in/login.php]
 
-### Project 2: Online Diagnostic Lab Reporting Sytem
+### Project 2: Personal Portfolio Website
 
-- Description: The purpose of the project entitled as“Online Diagnostic Lab Reportingsystem” is to develop web application tocomputerize of a Diagnostic Systemwhich is user friendly simple, fast, andcost-effective, as from patientsperspective he can get the reports ofmedical test online such as CT scan testreport, MRI test etc on my system.
-- Technologies: HTML, CSS, BOOSTRAP, JAVASCRIPT, PHP, SQL.
-- [Link to the project or demo]
+- A responsive and modern personal portfolio website showcasing my skills, projects, and experience. Built using HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL with clean UI, smooth animations, and mobile-friendly design.
+- [https://surajkadam1308.github.io/]
 
 ...
 
